@@ -47,7 +47,7 @@ Please feel free to fork the repository, experiment with solutions, and submit a
 
 1.  Clone this repository into your `ComfyUI/custom_nodes/` directory:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+    git clone https://github.com/Juste-Leo2/USO_ComfyUI.git
     ```
 2.  Restart ComfyUI.
 
